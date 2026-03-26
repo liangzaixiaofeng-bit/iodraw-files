@@ -133,7 +133,7 @@
         </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-40" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xNQl6h-6YZ3fS9MxMt93-39">
           <mxGeometry x="0.28" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="15" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-33" value="温度最高是否为1？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -142,8 +142,8 @@
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-35" value="读取成功：返回0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187.5" y="1085" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xNQl6h-6YZ3fS9MxMt93-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1170" width="120" height="60" as="geometry" />
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-38" value="处理负温：移除符号位转位负数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
