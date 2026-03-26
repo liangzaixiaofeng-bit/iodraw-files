@@ -51,8 +51,8 @@
         <mxCell id="ZGpowgIqveRYUard_Cmf-6" value="时钟停止或数据非法？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="287" y="420" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZGpowgIqveRYUard_Cmf-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="ZGpowgIqveRYUard_Cmf-8" value="写入默认时间并启动振荡器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="167" y="510" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZGpowgIqveRYUard_Cmf-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="368.25" y="510" width="120" height="60" as="geometry" />
