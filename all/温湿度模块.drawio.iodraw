@@ -75,6 +75,15 @@
             <mxPoint x="15" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xNQl6h-6YZ3fS9MxMt93-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="561" y="800" />
+              <mxPoint x="561" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-19" value="是否完成40次？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="760" width="80" height="80" as="geometry" />
         </mxCell>
