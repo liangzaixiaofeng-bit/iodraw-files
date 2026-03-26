@@ -25,6 +25,9 @@
         <mxCell id="ZGpowgIqveRYUard_Cmf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGpowgIqveRYUard_Cmf-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="460" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGpowgIqveRYUard_Cmf-6" value="时钟停止或数据非法？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
