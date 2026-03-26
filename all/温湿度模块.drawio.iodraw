@@ -25,6 +25,11 @@
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xNQl6h-6YZ3fS9MxMt93-6" target="xNQl6h-6YZ3fS9MxMt93-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-10" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xNQl6h-6YZ3fS9MxMt93-9">
+          <mxGeometry x="-0.1795" y="1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-6" value="检测传感器响应？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="390" width="80" height="80" as="geometry" />
         </mxCell>
