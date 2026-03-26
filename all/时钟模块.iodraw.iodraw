@@ -58,10 +58,16 @@
           <mxGeometry x="368.25" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZGpowgIqveRYUard_Cmf-14" value="重新开启写保护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275.5" y="630" width="103" height="50" as="geometry" />
+          <mxGeometry x="275.5" y="640" width="103" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGpowgIqveRYUard_Cmf-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGpowgIqveRYUard_Cmf-15" target="ZGpowgIqveRYUard_Cmf-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGpowgIqveRYUard_Cmf-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="302" y="550" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGpowgIqveRYUard_Cmf-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="302" y="730" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
