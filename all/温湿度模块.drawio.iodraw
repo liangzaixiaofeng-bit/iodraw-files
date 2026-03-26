@@ -114,11 +114,17 @@
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-27" value="返回错判：校验失败1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="890" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xNQl6h-6YZ3fS9MxMt93-30" target="xNQl6h-6YZ3fS9MxMt93-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-30" value="计算原始数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="1000" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-33" value="温度最高是否为1？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="1060" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
