@@ -36,7 +36,7 @@
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-8" value="串口打印：无响应并返回错误值2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="410" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xNQl6h-6YZ3fS9MxMt93-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-11" value="等待80us低电平&lt;br&gt;+&lt;br&gt;等待80us高电平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
