@@ -26,7 +26,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="460" />
+              <mxPoint x="230" y="460" />
+              <mxPoint x="230" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -52,7 +53,7 @@
           <mxGeometry x="287" y="420" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZGpowgIqveRYUard_Cmf-8" value="写入默认时间并启动振荡器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="174" y="540" width="113" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZGpowgIqveRYUard_Cmf-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="368.25" y="510" width="120" height="60" as="geometry" />
