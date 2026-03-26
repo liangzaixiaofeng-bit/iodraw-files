@@ -53,7 +53,7 @@
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xNQl6h-6YZ3fS9MxMt93-14" target="xNQl6h-6YZ3fS9MxMt93-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xNQl6h-6YZ3fS9MxMt93-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xNQl6h-6YZ3fS9MxMt93-17">
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-18" value="等待低电平结束" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xNQl6h-6YZ3fS9MxMt93-17">
           <mxGeometry x="-0.0511" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -62,7 +62,7 @@
           <mxGeometry x="338.75" y="600" width="92.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-16" value="延迟40us后采样" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="332.5" y="680" width="105" height="40" as="geometry" />
+          <mxGeometry x="332.5" y="690" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
