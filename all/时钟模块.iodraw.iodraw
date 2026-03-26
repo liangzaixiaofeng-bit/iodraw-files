@@ -43,9 +43,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZGpowgIqveRYUard_Cmf-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZGpowgIqveRYUard_Cmf-12">
+        <mxCell id="ZGpowgIqveRYUard_Cmf-13" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZGpowgIqveRYUard_Cmf-12">
           <mxGeometry x="-0.758" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGpowgIqveRYUard_Cmf-6" value="时钟停止或数据非法？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
