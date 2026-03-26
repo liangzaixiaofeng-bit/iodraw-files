@@ -22,12 +22,17 @@
         <mxCell id="ZGpowgIqveRYUard_Cmf-4" value="关闭写保护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284.75" y="350" width="83.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZGpowgIqveRYUard_Cmf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGpowgIqveRYUard_Cmf-6">
+        <mxCell id="ZGpowgIqveRYUard_Cmf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZGpowgIqveRYUard_Cmf-6" target="ZGpowgIqveRYUard_Cmf-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="460" />
+              <mxPoint x="220" y="460" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZGpowgIqveRYUard_Cmf-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZGpowgIqveRYUard_Cmf-10">
+          <mxGeometry x="-0.6949" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZGpowgIqveRYUard_Cmf-6" value="时钟停止或数据非法？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
