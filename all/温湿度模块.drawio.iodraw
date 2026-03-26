@@ -16,10 +16,13 @@
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-2" value="主机拉低总线1ms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="250" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xNQl6h-6YZ3fS9MxMt93-4" target="xNQl6h-6YZ3fS9MxMt93-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-4" value="主机拉高30us&lt;br&gt;切换输入模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="320" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xNQl6h-6YZ3fS9MxMt93-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-6" value="检测传感器响应？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="380" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
