@@ -97,7 +97,7 @@
         </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-29" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xNQl6h-6YZ3fS9MxMt93-28">
           <mxGeometry x="-0.1273" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
+            <mxPoint x="15" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xNQl6h-6YZ3fS9MxMt93-22" target="xNQl6h-6YZ3fS9MxMt93-30">
@@ -123,9 +123,9 @@
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xNQl6h-6YZ3fS9MxMt93-33" target="xNQl6h-6YZ3fS9MxMt93-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xNQl6h-6YZ3fS9MxMt93-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xNQl6h-6YZ3fS9MxMt93-36">
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-37" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xNQl6h-6YZ3fS9MxMt93-36">
           <mxGeometry x="-0.0476" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-33" value="温度最高是否为1？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
