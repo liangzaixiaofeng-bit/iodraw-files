@@ -58,7 +58,10 @@
           <mxGeometry x="368.25" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZGpowgIqveRYUard_Cmf-14" value="重新开启写保护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="267" y="620" width="103" height="50" as="geometry" />
+          <mxGeometry x="275" y="620" width="103" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGpowgIqveRYUard_Cmf-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="585" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
