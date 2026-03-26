@@ -47,8 +47,8 @@
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-11" value="等待80us低电平&lt;br&gt;+&lt;br&gt;等待80us高电平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="510" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xNQl6h-6YZ3fS9MxMt93-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-14" value="进入数据读取循环：40次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="600" width="95" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
