@@ -67,6 +67,11 @@
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-16" value="延迟40us后采样" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="690" width="105" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xNQl6h-6YZ3fS9MxMt93-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-19" value="是否完成40次？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="760" width="80" height="80" as="geometry" />
         </mxCell>
