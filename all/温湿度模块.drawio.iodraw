@@ -23,7 +23,10 @@
           <mxGeometry x="337.5" y="320" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xNQl6h-6YZ3fS9MxMt93-6" value="检测传感器响应？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="345" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xNQl6h-6YZ3fS9MxMt93-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
