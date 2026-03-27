@@ -11,22 +11,22 @@
           <mxGeometry x="350" y="119" width="119" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GHaApY5bgZ_IdJ0SPPSv-3" value="STM32主控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="341" y="218" width="137" height="49" as="geometry" />
+          <mxGeometry x="341" y="200" width="137" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GHaApY5bgZ_IdJ0SPPSv-4" value="DHT22" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="317" width="106" height="49" as="geometry" />
+          <mxGeometry x="20" y="290" width="106" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GHaApY5bgZ_IdJ0SPPSv-5" value="BH1750" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="176" y="317" width="114" height="49" as="geometry" />
+          <mxGeometry x="176" y="290" width="114" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GHaApY5bgZ_IdJ0SPPSv-6" value="MOS管驱动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="317" width="139" height="49" as="geometry" />
+          <mxGeometry x="340" y="290" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GHaApY5bgZ_IdJ0SPPSv-7" value="舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="529" y="317" width="92" height="49" as="geometry" />
+          <mxGeometry x="529" y="290" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GHaApY5bgZ_IdJ0SPPSv-8" value="按键" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="671" y="317" width="92" height="49" as="geometry" />
+          <mxGeometry x="671" y="290" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GHaApY5bgZ_IdJ0SPPSv-9" value="PTC升温片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="51" y="440" width="136" height="49" as="geometry" />
