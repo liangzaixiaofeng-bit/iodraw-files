@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GHaApY5bgZ_IdJ0SPPSv-24" value="巴法云app/网页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="322" y="20" width="175" height="49" as="geometry" />
+          <mxGeometry x="322" y="40" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GHaApY5bgZ_IdJ0SPPSv-25" value="ESP8266" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="119" width="119" height="49" as="geometry" />
+          <mxGeometry x="350" y="129" width="119" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GHaApY5bgZ_IdJ0SPPSv-26" value="STM32主控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="341" y="218" width="137" height="49" as="geometry" />
