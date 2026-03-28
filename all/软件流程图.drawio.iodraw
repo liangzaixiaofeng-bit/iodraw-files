@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="aOSSE5KLk5kTGrSQIBKq">
-    <mxGraphModel dx="1817" dy="97" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2365" dy="421" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,22 +143,24 @@
           <mxGeometry x="837.5" y="702" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-46" value="key1：紫外灯与闹钟开关逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="823" y="1076" width="130" height="30" as="geometry" />
+          <mxGeometry x="823" y="1060" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j8wq2m2KP7PaJtogy2dH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-47" target="YZqBb4D6Gd60lmCKhaw4-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-47" value="key2：正常/冬眠模式切换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="822.75" y="770" width="130" height="30" as="geometry" />
+          <mxGeometry x="822.75" y="754" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j8wq2m2KP7PaJtogy2dH-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-48" target="YZqBb4D6Gd60lmCKhaw4-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-48" value="key3：状态机切换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="822.75" y="826" width="130" height="30" as="geometry" />
+          <mxGeometry x="822.75" y="810" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8wq2m2KP7PaJtogy2dH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-52" target="YZqBb4D6Gd60lmCKhaw4-57">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j8wq2m2KP7PaJtogy2dH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="792.5" y="921.2564102564102" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j8wq2m2KP7PaJtogy2dH-10" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j8wq2m2KP7PaJtogy2dH-9">
           <mxGeometry x="-0.1638" y="-1" relative="1" as="geometry">
@@ -174,14 +176,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-52" value="当前模式mode=0？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="832.37" y="886" width="111.25" height="102.5" as="geometry" />
+          <mxGeometry x="832.37" y="870" width="111.25" height="102.5" as="geometry" />
         </mxCell>
-        <mxCell id="j8wq2m2KP7PaJtogy2dH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-57" target="YZqBb4D6Gd60lmCKhaw4-68">
+        <mxCell id="j8wq2m2KP7PaJtogy2dH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YZqBb4D6Gd60lmCKhaw4-68">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="772.61" y="1226" as="targetPoint" />
+            <mxPoint x="772.61" y="1210" as="targetPoint" />
+            <mxPoint x="751.2564102564102" y="938.3100000000002" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="751.61" y="1100" />
-              <mxPoint x="751.61" y="1232" />
+              <mxPoint x="751.61" y="1084" />
+              <mxPoint x="751.61" y="1216" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -192,22 +195,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-60" value="读取DS1302_comtime" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="818.5" y="1012" width="139" height="30" as="geometry" />
+          <mxGeometry x="818.5" y="996" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j8wq2m2KP7PaJtogy2dH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-62" target="YZqBb4D6Gd60lmCKhaw4-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-62" value="传感器读取与温湿度控制逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="834.86" y="1134" width="107.49" height="40" as="geometry" />
+          <mxGeometry x="834.86" y="1118" width="107.49" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j8wq2m2KP7PaJtogy2dH-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-65" target="YZqBb4D6Gd60lmCKhaw4-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-65" value="数据上传巴法云" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="833.62" y="1203" width="110" height="30" as="geometry" />
+          <mxGeometry x="833.62" y="1187" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-68" value="OLED屏幕显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830.12" y="1258" width="117" height="30" as="geometry" />
+          <mxGeometry x="830.12" y="1242" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YZqBb4D6Gd60lmCKhaw4-82" target="YZqBb4D6Gd60lmCKhaw4-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
