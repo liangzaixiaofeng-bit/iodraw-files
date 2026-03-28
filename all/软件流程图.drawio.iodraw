@@ -196,6 +196,12 @@
             <mxPoint x="895.82" y="1162.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="j8wq2m2KP7PaJtogy2dH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="821.4326315789475" y="1212" as="sourcePoint" />
+            <mxPoint x="821.38" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-62" value="传感器读取与温湿度控制逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="842.26" y="1174" width="107.49" height="40" as="geometry" />
         </mxCell>
