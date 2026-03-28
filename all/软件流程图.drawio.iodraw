@@ -184,6 +184,9 @@
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-57" value="key4/5，进入修改参数模式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="717.39" y="976.1899999999999" width="82.5" height="34.12" as="geometry" />
         </mxCell>
+        <mxCell id="j8wq2m2KP7PaJtogy2dH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-60" target="YZqBb4D6Gd60lmCKhaw4-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-60" value="读取DS1302_comtime" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="825.89" y="1068" width="139" height="30" as="geometry" />
         </mxCell>
