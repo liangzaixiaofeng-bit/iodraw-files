@@ -164,9 +164,9 @@
         <mxCell id="j8wq2m2KP7PaJtogy2dH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-52" target="YZqBb4D6Gd60lmCKhaw4-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j8wq2m2KP7PaJtogy2dH-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j8wq2m2KP7PaJtogy2dH-19">
+        <mxCell id="j8wq2m2KP7PaJtogy2dH-20" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j8wq2m2KP7PaJtogy2dH-19">
           <mxGeometry x="-0.3744" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="16" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-52" value="当前模式mode=0？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -185,7 +185,7 @@
           <mxGeometry x="717.39" y="976.1899999999999" width="82.5" height="34.12" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-60" value="读取DS1302_comtime" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="825.89" y="1110" width="139" height="30" as="geometry" />
+          <mxGeometry x="825.89" y="1094" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j8wq2m2KP7PaJtogy2dH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-62" target="YZqBb4D6Gd60lmCKhaw4-65">
           <mxGeometry relative="1" as="geometry" />
