@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="aOSSE5KLk5kTGrSQIBKq">
-    <mxGraphModel dx="2116" dy="274" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2314" dy="391" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,7 @@
         </mxCell>
         <mxCell id="j8wq2m2KP7PaJtogy2dH-6" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j8wq2m2KP7PaJtogy2dH-5">
           <mxGeometry x="-0.6241" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="12" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-29" value="是否收到串口指令" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
