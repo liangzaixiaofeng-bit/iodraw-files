@@ -137,7 +137,7 @@
           <mxGeometry x="678" y="912" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-47" value="key2：正常/冬眠模式切换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="748" y="802" width="130" height="30" as="geometry" />
+          <mxGeometry x="822.75" y="766" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-48" value="key3：状态机切换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="850" width="130" height="30" as="geometry" />
