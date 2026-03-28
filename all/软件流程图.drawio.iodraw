@@ -172,7 +172,11 @@
         </mxCell>
         <mxCell id="j8wq2m2KP7PaJtogy2dH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-57">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="758" y="1274" as="targetPoint" />
+            <mxPoint x="780" y="1282" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="759" y="1156" />
+              <mxPoint x="759" y="1274" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-57" value="key4/5，进入修改参数模式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
