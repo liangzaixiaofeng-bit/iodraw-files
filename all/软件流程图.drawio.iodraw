@@ -118,7 +118,10 @@
         </mxCell>
         <mxCell id="j8wq2m2KP7PaJtogy2dH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="788" as="targetPoint" />
+            <mxPoint x="790" y="788" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="788" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-40" value="清空标志位：Serial_RxFlag1 = 0;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
