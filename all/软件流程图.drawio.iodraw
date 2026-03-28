@@ -207,12 +207,8 @@
             <mxPoint x="12" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j8wq2m2KP7PaJtogy2dH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-40" target="YZqBb4D6Gd60lmCKhaw4-47">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="822" y="785" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="j8wq2m2KP7PaJtogy2dH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-40" target="YZqBb4D6Gd60lmCKhaw4-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
