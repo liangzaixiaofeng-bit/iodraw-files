@@ -49,15 +49,13 @@
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-7" value="比较读取和计算到的数值是否一致" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="821.38" y="300" width="132.74" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="j8wq2m2KP7PaJtogy2dH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-18">
+        <mxCell id="j8wq2m2KP7PaJtogy2dH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-18" target="YZqBb4D6Gd60lmCKhaw4-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="784" y="512" as="targetPoint" />
             <Array as="points">
               <mxPoint x="737" y="440" />
               <mxPoint x="738" y="440" />
-              <mxPoint x="738" y="514" />
-              <mxPoint x="770" y="514" />
-              <mxPoint x="770" y="512" />
+              <mxPoint x="738" y="512" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -73,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-26" value="清空OLED屏幕后显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="846.25" y="496" width="82.5" height="30" as="geometry" />
+          <mxGeometry x="846.25" y="498" width="82.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j8wq2m2KP7PaJtogy2dH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-29" target="YZqBb4D6Gd60lmCKhaw4-47">
           <mxGeometry relative="1" as="geometry" />
