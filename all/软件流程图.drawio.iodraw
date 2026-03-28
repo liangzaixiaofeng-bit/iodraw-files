@@ -209,7 +209,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-65" value="数据上传巴法云" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="841" y="1222.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="841.62" y="1236" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-68" value="OLED屏幕显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="837.73" y="1300" width="117" height="30" as="geometry" />
