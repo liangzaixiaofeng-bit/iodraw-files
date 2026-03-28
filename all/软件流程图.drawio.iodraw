@@ -76,9 +76,9 @@
         <mxCell id="j8wq2m2KP7PaJtogy2dH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-29" target="YZqBb4D6Gd60lmCKhaw4-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j8wq2m2KP7PaJtogy2dH-35" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j8wq2m2KP7PaJtogy2dH-34">
+        <mxCell id="j8wq2m2KP7PaJtogy2dH-35" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j8wq2m2KP7PaJtogy2dH-34">
           <mxGeometry x="-0.0586" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-29" value="是否收到串口指令" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -114,16 +114,8 @@
             <mxPoint x="637.39" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j8wq2m2KP7PaJtogy2dH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-40" target="YZqBb4D6Gd60lmCKhaw4-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="788" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="640" y="788" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YZqBb4D6Gd60lmCKhaw4-40" value="清空标志位：Serial_RxFlag1 = 0;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="760" width="115" height="40" as="geometry" />
+          <mxGeometry x="580" y="762" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j8wq2m2KP7PaJtogy2dH-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZqBb4D6Gd60lmCKhaw4-43" target="YZqBb4D6Gd60lmCKhaw4-47">
           <mxGeometry relative="1" as="geometry" />
